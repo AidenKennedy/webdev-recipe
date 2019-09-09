@@ -1,0 +1,12 @@
+body {
+color: rgb(0, 189, 0);
+Background: black;
+}
+hr {
+    height: 2px;
+    border: none;
+    background-color: tomato;
+}
+ul {
+    list-style-type: square;
+}
